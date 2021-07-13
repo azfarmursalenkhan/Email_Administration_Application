@@ -7,6 +7,12 @@ public class Email {
     private String department;
     private int mailboxCapacity;
     private String alternateEmail;
+    private String This_change_refers_to_template_change
+
+
+    // This is the second change made in the templateChange branch
+
+
 
 
     //constructor to recveive the first name and last name

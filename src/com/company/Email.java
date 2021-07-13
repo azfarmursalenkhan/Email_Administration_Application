@@ -10,6 +10,9 @@ public class Email {
     private String This_change_refers_to_template_change
 
 
+    // This is the second change made in the templateChange branch
+
+
 
 
     //constructor to recveive the first name and last name
